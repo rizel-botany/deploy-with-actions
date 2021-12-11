@@ -2,7 +2,7 @@
   "name": "deploy-with-actions",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://blackgirlbytes.github.io/deploy-with-actions/",
+  "homepage": "http://rizel-botany.github.io/deploy-with-actions/",
   "dependencies": {
     "@craco/craco": "^6.4.3",
     "@testing-library/jest-dom": "^5.11.4",
